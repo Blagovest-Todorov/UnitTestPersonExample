@@ -1,0 +1,16 @@
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\bin\Debug\PeoplesRepo.Tests.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\bin\Debug\PeoplesRepo.Tests.pdb
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\bin\Debug\PeoplesRepo.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\bin\Debug\PeoplesRepo.pdb
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\obj\Debug\PeoplesRepo.Tests.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\obj\Debug\PeoplesRepo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\obj\Debug\PeoplesRepo.Tests.csproj.CopyComplete
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\obj\Debug\PeoplesRepo.Tests.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo.Tests\obj\Debug\PeoplesRepo.Tests.pdb
