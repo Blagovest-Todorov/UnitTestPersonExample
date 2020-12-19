@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bL1DRjyuQEMKnE17KV5nLQeNMbWX2fCo3JBpeL0lQEtkFyISX1wT34eUguptCQFURoWTyZkVf9Wcu3138QT1+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bla\\source\\repos\\DemoUnitTesting\\PeoplesRepo\\PeoplesRepo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bla\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

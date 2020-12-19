@@ -1,0 +1,9 @@
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo\bin\Debug\netstandard2.0\PeoplesRepo.deps.json
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo\bin\Debug\netstandard2.0\PeoplesRepo.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo\bin\Debug\netstandard2.0\PeoplesRepo.pdb
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo\obj\Debug\netstandard2.0\PeoplesRepo.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo\obj\Debug\netstandard2.0\PeoplesRepo.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo\obj\Debug\netstandard2.0\PeoplesRepo.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo\obj\Debug\netstandard2.0\PeoplesRepo.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo\obj\Debug\netstandard2.0\PeoplesRepo.dll
+C:\Users\Bla\source\repos\DemoUnitTesting\PeoplesRepo\obj\Debug\netstandard2.0\PeoplesRepo.pdb
